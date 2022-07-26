@@ -1,0 +1,101 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h2{
+    font-weight: 700;
+}
+
+.container{
+    margin: 0 auto;
+    width: 90%;
+    padding: 80px;
+    
+}
+
+
+.flex{
+    display:flex
+    
+}
+
+.text-center{
+    text-align: center;
+}
+
+.columna1{
+    background: rgb(209, 207, 207);
+   color: #333;
+   border: 1px #333;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 40px;
+   box-shadow: 10px 8px 20px rgb(231, 216, 9);
+   
+}
+
+.columna2{
+    background: rgb(209, 207, 207);
+   color: #333;
+   border: 1px #333;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 40px;
+   box-shadow: 10px 8px 20px rgb(5, 219, 219);
+   
+}
+
+.columna3{
+    background: rgb(209, 207, 207);
+   color: #333;
+   border: 1px #333;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 40px;
+   box-shadow: 10px 8px 20px rgb(219, 48, 182);
+   
+}
+
+.columna4{
+    background: rgb(209, 207, 207);
+   color: #333;
+   border: 1px #333;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 40px;
+   box-shadow: 10px 8px 20px rgb(43, 180, 25);
+   
+}
+
+.columna5{
+    background: rgb(209, 207, 207);
+    color: #333;
+    border: 1px #333;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 40px;
+    box-shadow: 10px 8px 20px rgb(245, 16, 16);
+    
+}
+
+.btn-precio{
+    background:salmon;
+    display: block;
+    padding: 10px;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+
+.btn-precio:hover{
+    background:rgb(223, 29, 8);
+    
+}
+
+.imagen{
+    width: 180px;
+    height: 200px;
+    border-radius: 30px;
+   
+}
